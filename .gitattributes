@@ -1,0 +1,5 @@
+*.db filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.db
+Adding[[:space:]]path[[:space:]]*.db
+git[[:space:]]add[[:space:]]C:UserskemikDocumentsGitHubPortfolioProjectscovid19data.db
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.db filter=lfs diff=lfs merge=lfs -text
